@@ -99,3 +99,41 @@ body{
     padding-top: 55px;
     
 }
+
+.fotos{
+    width: 1200px;
+    text-align: center;
+    background-color: #D8B281;
+    margin: auto;
+    border-bottom: 5px solid #A55C33 ;
+    padding-top: 19px;
+    color: #A55C33
+}
+
+.imagens{
+    width: 200px;
+    height: 200px;
+    border: 5px solid;
+    column-count: 3;
+    object-fit: cover;
+    margin-top: 60px;
+    margin-bottom: 60px;
+
+}
+
+.bolo-meio{
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+.contatos{
+    width: 1200px;
+    background-color: #D8B281;
+    color: #A55C33;
+    text-align: center;
+    margin: auto;
+    padding-top: 18px;
+
+
+}
