@@ -134,6 +134,33 @@ body{
     text-align: center;
     margin: auto;
     padding-top: 18px;
+    margin: auto;
+    border-bottom: 5px solid #A55C33 ;
 
 
+}
+
+.footer{
+    width: 1200px;
+    background-color: #D8B281;
+    color: #A55C33;
+    text-align: center;
+    margin: auto;
+    padding-top: 18px;
+    margin: auto;
+}
+.nome-loja2{
+    margin: 0;
+    font-size: 50px;
+    color: #A55C33;
+    line-height: 80%;
+    font-family: Great Vibes;
+    font-weight: 100;
+}
+
+.icon{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
